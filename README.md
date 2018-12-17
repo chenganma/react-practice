@@ -1,4 +1,4 @@
-# rwact practice
+# react practice
 
 learning react by following below course
 
