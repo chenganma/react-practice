@@ -1,6 +1,9 @@
 //import React, { Component } from 'react'
 //import logo from './logo.svg'
 //import './App.css'
+
+//mapping components
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 
